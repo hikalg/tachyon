@@ -12,7 +12,7 @@ wheels = [
 ]
 
 [[package]]
-name = "kingsway"
+name = "tachyon"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
